@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib
+pillow
+scikit-learn
+joblib
+sqlite3  # optional, see note below
